@@ -39,3 +39,17 @@ button{
     border: 1px solid black;
     display: flex;
 }
+
+#array_arrange{
+    padding-left: 10px;
+}
+
+.display--arrange{
+    width: 80%;
+    height: 50px;
+    top: 5px;
+    margin: 0 auto;
+    margin-top: 5px;
+    border: 1px solid black;
+    display: flex;
+}
