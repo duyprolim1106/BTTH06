@@ -60,6 +60,10 @@ function them(){
 
     }
 
+    else if(i==='' || y===''){
+        alert('Vui lòng thêm vị trí/số cần thêm vào')
+    }
+
     else {
         if(array.indexOf(y)===-1){
             array.splice(i,0,y)
